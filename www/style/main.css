@@ -1,0 +1,14 @@
+*           {text-decoration: none; font-family: Consolas, monospace;}
+p           {text-indent: 1em;}
+blockquote  {margin: 10px; background-color:floralwhite;}
+.Head       {margin: 0px ; background-color: lightskyblue;}
+.Home,.Home:active,.Home:link,.Home:hover,.Home:visited
+            {padding: 20px; font-size: 20px; text-align: center; color: dodgerblue;}
+.NavMain    {background-color: lightblue; list-style-type: none;
+             overflow: hidden; padding-left: 0px; margin-top: 0px;}
+.NAvLi      {float: left;}
+.NavA       {display: block; text-align: center; padding: 10px; color: darkslateblue;}
+.NavA:hover,.NavA:active
+            {background-color: skyblue; color: darkslateblue;}
+.Doc        {margin: 0px 10px}
+.i          {font-style: italic;}

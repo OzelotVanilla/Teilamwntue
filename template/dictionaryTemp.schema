@@ -1,0 +1,10 @@
+//Notice: "Speech" stands for "词性".
+
+{
+  dictionary:
+  {
+    "word": {"type": "string"},
+    "speech":{"noun","verb","nounR","verbR","adj","aux"},
+    "mean":{"type": "string"}
+  }
+}
