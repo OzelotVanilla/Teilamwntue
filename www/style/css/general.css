@@ -1,0 +1,33 @@
+*           {text-decoration: none; font-family: Consolas, monospace;}
+
+body        {background-color: #f8fbf8; padding: 0px; margin: 0px;}
+
+p           {text-indent: 1em;}
+
+blockquote  {margin: 10px; background-color: #f3f3f3;}
+
+.Head       {margin: 0px ; background-color: lightskyblue;}
+
+.Home, .Home:active, .Home:link, .Home:hover,.Home:visited
+            {padding: 20px; font-size: 20px; text-align: center; color: dodgerblue;}
+
+.NavMain    {background-color: #a0d8ef; list-style-type: none;
+             overflow: hidden; padding-left: 0px; margin-top: 0px;}
+
+.NavLi      {float: left;}
+
+.NavAbout   {float: right;}
+
+.NavA       {display: block; text-align: center; padding: 10px 15px; color: darkslateblue;}
+
+.NavA:hover, .NavA:active
+            {background-color: skyblue; color: darkslateblue;}
+
+.Doc        {margin: 0px 10px;}
+
+.i          {font-style: italic;}
+
+.LnkA, .LnkA:active, .LnkA:visited
+            {color: steelblue;}
+
+.version    {color: forestgreen}

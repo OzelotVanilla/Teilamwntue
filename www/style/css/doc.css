@@ -1,0 +1,14 @@
+body        {background-color: aliceblue;}
+
+.DocTitle   {text-align: center}
+
+.DocSub     {text-indent: 2em;}
+
+.DocNav     {background-color: paleturquoise; list-style-type: none; overflow: hidden;
+             padding-left: 0px; margin-top: 0px}
+
+.columnMain {text-indent: 2em; overflow: hidden; padding-left: 0px}
+
+.columnEle  {float: left;}
+
+.columnText {display: block;}

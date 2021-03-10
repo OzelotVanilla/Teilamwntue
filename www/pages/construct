@@ -1,0 +1,30 @@
+Website: Teilamwntue ==> <a word that means the culture in Teilamwn>
+
+[-] Index.html ==> Content.Home
+[-] Content
+    [ ] Teilamwntue
+        [ ] Brief
+        [ ] Instructions
+        [ ] Learn from others
+    [ ] Home
+    [-] Main ==> Teilamwntue
+        [ ] Construction
+            [ ] Words
+            [ ] Syntax
+    [-] Pull Request
+        [ ] Language Part
+        [ ] Custom Part
+            [ ] Food & Cloth & Tools
+            [ ] Painting & Music
+    [-] About
+    [x] Instructions ==> Teilamwntue.Instructions
+
+
+
+Meaning of the symbols:
+[-] Exist
+    [x] Not linked
+[ ] Plan
+    ==> Plan to change
+<w> "w" is the explain of one term
+A.b "b" is the subset of "A"
